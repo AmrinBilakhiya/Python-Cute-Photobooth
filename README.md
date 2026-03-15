@@ -1,4 +1,4 @@
-# Cute Python Photobooth 📸
+# Cute Python Photobooth 🩷 
 
 A simple photobooth application built with Python.
 
